@@ -4,16 +4,17 @@ header {text-align: center;
 .navbar{
         color: orange !important;
 
+
+
 }
 .header {font-family: 'Bangers', cursive;
 font-size: 50px;
-border: 20px solid black;
 padding: 10px;
 text-decoration-color: orange;
 }
 .header {
   text-align:center;
-  background: linear-gradient(to bottom, white, black 50%, white);
+  background: linear-gradient(to right, grey,black, black);;
   background-size: cover;
 }
 
@@ -24,9 +25,9 @@ text-decoration-color: orange;
 
   }
 
+
 p {font-family: 'Dancing Script', cursive;
-font-size-adjust: auto;
-font-size: 28px;
+font-size: 25px;
 }
 
 #titular {font-size: 25px;
@@ -35,26 +36,26 @@ font-weight:bolder;}
 
 
 h2 {font-family:'Dancing Script', cursive;
-font-size: 40px;}
+font-size: 60px;}
 
-section {width: 48%;
+#salsa {width: 100%;
 float: left;
 margin: 1%;
-padding: 10px;
+padding: 5%;
 border: 10px solid black;
-box-sizing: border-box;
-height: 600px;
+height: auto;
 overflow: auto;
+box-sizing: border-box;
 }
 
-aside {width: 48%;
+#bachata {width: 100%;
 float: left;
 margin: 1%;
-padding: 10px;
+padding: 5%;
 border: 10px solid black;
-box-sizing: border-box;
-height: 600px;
+height: auto;
 overflow: auto;
+box-sizing: border-box;
 }
 
 footer { clear:both;
